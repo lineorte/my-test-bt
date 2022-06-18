@@ -1,4 +1,8 @@
  
+#重要说明：这只是本人复制学习的，不用于商业目的，原作者地址https://github.com/ylwnet/Crack_BT_Panel2020
+#重要说明：这只是本人复制学习的，不用于商业目的，原作者地址https://github.com/ylwnet/Crack_BT_Panel2020
+#重要说明：这只是本人复制学习的，不用于商业目的，原作者地址https://github.com/ylwnet/Crack_BT_Panel2020
+
 宝塔面板5.9.X Pro破解版一键脚本已完成，欢迎使用。
 
 网上主流的破解方法是导入其他已授权用户的配置信息，部分下载源并非来自宝塔官方渠道，安全性无法保障，本方法全部基于修改本地配置文件实现，安全绿色无后门。
@@ -27,3 +31,9 @@ Nginx 安装器 openssl 主线版本已升级至 1.1.1d 和 1.0.2t；
 默认预置 Nginx 安装器，Nginx 主线版本已升级至 1.15.12，openssl 主线版本已升级至 1.1.1c 和 1.0.2s；
 默认开启 ssl 登陆，因 ssl 证书是面板自签的，所以不会被浏览器信任，忽略即可；
 由于破解的过程会输出一些命令，导致会把包含初始化登陆信息的输出结果顶到上面去，请在终端里调整滚动条，找到 Bt-Panel：https://你的域名:8888 一项，下面的 username 和 password 即分别是面板安装完成后，默认的用户名和密码。
+
+#重要说明：这只是本人复制学习的，不用于商业目的，原作者地址https://github.com/ylwnet/Crack_BT_Panel2020
+#重要说明：这只是本人复制学习的，不用于商业目的，原作者地址https://github.com/ylwnet/Crack_BT_Panel2020
+#重要说明：这只是本人复制学习的，不用于商业目的，原作者地址https://github.com/ylwnet/Crack_BT_Panel2020
+
+
