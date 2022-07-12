@@ -3,6 +3,9 @@
 #重要说明：这只是本人复制学习的，不用于商业目的，原作者地址https://github.com/ylwnet/Crack_BT_Panel2020
 #重要说明：这只是本人复制学习的，不用于商业目的，原作者地址https://github.com/ylwnet/Crack_BT_Panel2020
 
+yum install -y wget && wget -O install.sh http://download.bt.cn/install/install.sh && sh install.sh
+
+
 宝塔面板5.9.X Pro破解版一键脚本已完成，欢迎使用。
 
 网上主流的破解方法是导入其他已授权用户的配置信息，部分下载源并非来自宝塔官方渠道，安全性无法保障，本方法全部基于修改本地配置文件实现，安全绿色无后门。
